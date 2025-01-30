@@ -46,10 +46,10 @@ taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
-#markup:
-#  _merge: deep
-#  highlight:
-#    lineNos: false
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
 security:
   _merge: deep
 sitemap:
