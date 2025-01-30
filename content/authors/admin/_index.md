@@ -66,7 +66,8 @@ education:
 ## About Me
 <iframe
 src="http://localhost:8080/ui/chat/e2d0dac7df62d331"
-style="width: 100%; height: 50%;"
+style="width: 100%; height: 400px;"
+scrolling="auto"
 frameborder="0"
 allow="microphone">
 </iframe>
