@@ -163,8 +163,8 @@ awards:
 
 
 <iframe
-src="https://localhost:8080/ui/chat/e2d0dac7df62d331"
-style="width: 20%; height: 30%;"
+src="http://localhost:8080/ui/chat/e2d0dac7df62d331"
+style="width: 50%; height: 50%;"
 frameborder="0"
 allow="microphone">
 </iframe>
